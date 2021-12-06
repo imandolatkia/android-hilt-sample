@@ -1,2 +1,6 @@
+include ':Database'
+include ':Network'
+include ':Repository'
+include ':SampleModule'
 include ':app'
 rootProject.name = "AndroidHiltSample"
