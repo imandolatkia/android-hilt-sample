@@ -4,7 +4,7 @@ import android.content.Context
 import android.util.AttributeSet
 import android.util.Log
 import android.view.View
-import com.dolatkia.androidhiltsample.data.Repository
+import com.dolatkia.repository.Repository
 import dagger.hilt.android.AndroidEntryPoint
 import javax.inject.Inject
 

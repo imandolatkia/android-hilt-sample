@@ -2,7 +2,7 @@ package com.dolatkia.androidhiltsample.ui.main
 
 import android.util.Log
 import androidx.lifecycle.ViewModel
-import com.dolatkia.androidhiltsample.data.Repository
+import com.dolatkia.repository.Repository
 import dagger.hilt.android.lifecycle.HiltViewModel
 import javax.inject.Inject
 

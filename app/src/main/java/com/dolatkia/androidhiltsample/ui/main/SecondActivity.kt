@@ -4,8 +4,7 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.util.Log
 import com.dolatkia.androidhiltsample.R
-import com.dolatkia.androidhiltsample.data.Repository
-import com.dolatkia.androidhiltsample.data.SampleModel
+import com.dolatkia.repository.Repository
 import dagger.hilt.android.AndroidEntryPoint
 import javax.inject.Inject
 

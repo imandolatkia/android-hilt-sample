@@ -1,15 +1,11 @@
 package com.dolatkia.androidhiltsample.ui.main
 
 import android.content.Intent
-import androidx.lifecycle.ViewModelProvider
 import android.os.Bundle
 import android.util.Log
 import androidx.fragment.app.Fragment
-import android.view.LayoutInflater
-import android.view.View
-import android.view.ViewGroup
 import com.dolatkia.androidhiltsample.R
-import com.dolatkia.androidhiltsample.data.Repository
+import com.dolatkia.repository.Repository
 import dagger.hilt.android.AndroidEntryPoint
 import javax.inject.Inject
 import androidx.fragment.app.viewModels

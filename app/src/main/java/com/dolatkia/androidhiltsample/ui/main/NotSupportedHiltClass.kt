@@ -2,7 +2,7 @@ package com.dolatkia.androidhiltsample.ui.main
 
 import android.content.Context
 import android.util.Log
-import com.dolatkia.androidhiltsample.data.Repository
+import com.dolatkia.repository.Repository
 import dagger.hilt.EntryPoint
 import dagger.hilt.InstallIn
 import dagger.hilt.android.EntryPointAccessors
